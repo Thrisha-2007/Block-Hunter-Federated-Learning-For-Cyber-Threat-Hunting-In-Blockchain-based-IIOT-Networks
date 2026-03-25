@@ -1,0 +1,34 @@
+Block Hunter Federated Learning for Cyber Threat Hunting in Blockchain-based IIoT Networks
+
+Federated Learning, Anomaly Detection, Threat Hunting, Blockchain, Industrial Internet of Things, IIoT, IoT.
+
+
+IEEE Transactions on Industrial Informatics,Volume:18,Issue:11,Issue Date:November.2022
+
+
+Block_Hunter
+
+
+
+block_hunter
+
+
+
+
+detect_cyber_threat
+
+pid
+ptime
+src_ip_address
+dst_ip_address
+frame_protos
+src_port
+dst_port
+bytes_trans
+protocol
+Date1
+Prediction
+
+
+
+
